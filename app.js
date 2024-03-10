@@ -2,7 +2,7 @@
 
 function redirectToWhatsApp() {
     // Define the WhatsApp number and message
-    var phoneNumber = '+21277680782'; // Your WhatsApp number
+    var phoneNumber = '+212777680782'; // Your WhatsApp number
     var message = 'Hello, I would like to chat with you.'; // Default message
 
     // Construct the WhatsApp URL
